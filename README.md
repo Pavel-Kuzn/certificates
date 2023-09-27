@@ -4,7 +4,7 @@
 Меня зовут Павел, я активно извучю анализ данных и машинное обучение, а также неустанно работаю над навыком питона :)   
 В этот репозиторий я сохраняю все сертификаты с пройденных курсов
 
-Курс "Аналитик данных" Karpov.corses - lab.karpov.courses/certificate/10c8ada8-7219-47fe-903d-3cae5ce42628/   
+Курс "Аналитик данных" Karpov.corses - https://lab.karpov.courses/certificate/10c8ada8-7219-47fe-903d-3cae5ce42628/   
 Курс "Симулятор SQL" Karpov.corses - lab.karpov.courses/certificate/2b8337f7-ae2c-4392-81e4-426f26223953/   
 Курс "Поколение Python для начинающих" Beegeek - stepik.org/cert/1933868   
 Курс "Поколение Python для продвинутых" Beegeek - stepik.org/cert/2179882   
