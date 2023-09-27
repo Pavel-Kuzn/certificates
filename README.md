@@ -8,5 +8,5 @@
 Курс "Симулятор SQL" Karpov.corses - https://lab.karpov.courses/certificate/2b8337f7-ae2c-4392-81e4-426f26223953/   
 Курс "Поколение Python для начинающих" Beegeek - https://stepik.org/cert/1933868   
 Курс "Поколение Python для продвинутых" Beegeek - https://stepik.org/cert/2179882   
-Курс "Data Science с Глебом Михайловым" - https://stepik.org/cert/2188431
+Курс "Data Science с Глебом Михайловым" - https://stepik.org/cert/2188431   
 Курс "Практический Machine Learning" AI Education - https://stepik.org/cert/2168815   
