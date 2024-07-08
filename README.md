@@ -15,3 +15,4 @@
 Курс "Поколение Python для продвинутых" Beegeek - https://stepik.org/cert/2179882   
 Курс "Data Science с Глебом Михайловым" - https://stepik.org/cert/2188431   
 Курс "Практический Machine Learning" AI Education - https://stepik.org/cert/2168815   
+Курс "разраюотка алгоритмов и программных приожений" - 
